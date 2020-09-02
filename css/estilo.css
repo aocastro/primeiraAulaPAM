@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+body {
+    margin: 0 0;
+    padding: 0 0;
+    background: url('../img/background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    font-family: 'Poiret One', cursive;
+    overflow: hidden;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-weight: 900;
+    font-size: 5em;
+}
